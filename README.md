@@ -8,7 +8,7 @@ This ☒CHIP forms part of the core modules and is equipped with WiFi.
 
 The CW02 ☒CHIP is housed in an extremely compact 2U×2U ☒CHIP with three connection ports. 
 
-# Key Features
+## Key Features
 
 IEEE802.11 b/g/n/e/i
 
