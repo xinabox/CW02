@@ -24,8 +24,6 @@ Built-board PCB antenna
 
 Based on ESP32 WROOM32
 
-4M bytes SPI Flash for programming.
-
 ## Installation Guide
 
 A simple to understand guide on how to bring support for CW02 module into the Arduino environment can be found on the [Espressif Systems](https://github.com/espressif/arduino-esp32) github.
