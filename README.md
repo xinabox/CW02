@@ -2,6 +2,8 @@
 <img src="extras/CW02 V0.5.1.JPG" width="35%" height="auto" align="right">
 Core WiFi Module based on ESP32 WROOM32.
 
+This module can be purchased on [Xinabox CC](https://xinabox.cc/products/CW02/).
+
 ## General Description
 
 This ☒CHIP forms part of the core modules and is equipped with WiFi. 
